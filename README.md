@@ -49,8 +49,7 @@ variable and how to fix it here for [windows][win-path] or
 Follow these steps to get this set up:
 
 ```sh
-git clone https://github.com/FrontendMasters/remix-fundamentals.git
-cd remix-fundamentals
+cd remix
 npm run setup
 ```
 
